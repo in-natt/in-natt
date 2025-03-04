@@ -3,7 +3,7 @@
 
 - Always pointing to CLOUDS :cloud: :face_in_clouds: 
 
-- 🌱 I’m currently learning **C and another CI/CD tools**
+- 🌱 I’m currently learning **IaC and another DevOps stuff**
 
 - 👨‍💻 All of my projects are available at [github.com/in-natt](https://github.com/in-natt)
 
